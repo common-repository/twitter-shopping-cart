@@ -1,0 +1,74 @@
+/**
+ * RTL support
+ */
+
+p.desc {
+	padding: 0 22px 8px 0;
+}
+
+p.desc.label {
+	padding: 2px 180px 10px 0;
+}
+
+div.wppluginbox ul {
+	margin-right: 20px;
+	margin-left: auto;
+}
+
+.postbox {
+	margin: 10px 0 0 10px;	
+}
+
+label {
+	display:block;
+	font-weight:bold;
+	margin:0 0 5px 0;
+	
+}
+
+input.textinput, textarea.textinput, select.select, input.checkbox {
+	margin: 0px 0 0px 0px;
+}
+input.checkbox {
+	margin-right:10px;
+	float:left;	
+}
+
+label.radio {
+	margin-left: 20px;
+	margin-left: auto;
+}
+
+table.wpplugin_help th, table.wpplugin_help td {
+	text-align: right;
+}
+
+.button.fixit {
+	float: left;
+}
+
+pre {
+	direction: ltr;
+}
+
+#pointer-primary {
+	margin: 0 0 0 5px;
+}
+
+.wpplugin-heading {
+	padding-left: 0;
+	padding-right: 10px;
+}
+
+.wpplugin_yahoo_kw {
+	margin: 3px 0 3px 8px;
+}
+
+table.wppluginanalysis th {
+	text-align: right;
+}
+
+table.wppluginanalysis td.score {
+	padding-left: 0;
+	padding-right: 10px;
+}
